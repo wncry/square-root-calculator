@@ -1,26 +1,16 @@
 import cmath
 import math
-x = float(input("""What number would you like to square root, 
-""" ))   
-
+x = float(input("Input number to find it's square root: " ))
 
 def sqrt(x):
-      
-  
-
-  
   if x < 0:
     crt = cmath.sqrt(x)
-    print(crt, """
+    print(crt)
 
-('j' is used instead of 'i')""")
-  if x > 0 or x == 0 :
+
+  if x >= 0:
     rt = math.sqrt(x)
-    print(rt)
-  
-  
-  
+    print(rt)   
 
 sqrt(x)
-
   
