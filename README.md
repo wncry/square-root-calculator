@@ -1,2 +1,2 @@
 # square-root-calculator
-very epic thing i made cus i was bored in math class
+very epic thing i made cus i was bored in math class, complex numbers work btw
