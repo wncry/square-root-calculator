@@ -6,9 +6,8 @@ def sqrt(x):
   if x < 0:
     crt = cmath.sqrt(x)
     print(crt)
-
-
-  if x >= 0:
+    
+  elif x >= 0:
     rt = math.sqrt(x)
     print(rt)   
 
